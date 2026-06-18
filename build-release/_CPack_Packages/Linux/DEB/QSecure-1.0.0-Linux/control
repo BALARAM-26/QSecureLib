@@ -1,0 +1,9 @@
+Architecture: amd64
+Depends: libssl3, libqt6widgets6
+Description: Post-Quantum File Encryption and Digital Signature Suite
+Maintainer: Kishan
+Package: qsecure
+Priority: optional
+Section: utils
+Version: 1.0.0
+Installed-Size: 177

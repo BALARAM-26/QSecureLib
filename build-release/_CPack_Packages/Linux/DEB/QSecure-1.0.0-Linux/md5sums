@@ -1,0 +1,11 @@
+c15a3ae074129c6acc48ac704a64025d  usr/local/bin/qsecure_gui
+73ccb32cd6e50bc90eb825e31ab1dced  usr/local/include/qsecure/aes_gcm.hpp
+4921ddc6152e20b1111124dbc8971782  usr/local/include/qsecure/asymmetric.hpp
+a17a687dc50532ca1baed2e1663a314f  usr/local/include/qsecure/container.hpp
+6195e78b48c0e5325dc140ea87b0c7c5  usr/local/include/qsecure/filehandler.hpp
+e0720e913745e538edbb1dc64ef9f270  usr/local/include/qsecure/hybrid.hpp
+827fc275df4b08152e801754d592e545  usr/local/include/qsecure/keymanager.hpp
+109dc52cbb843e6604d3f480bc46aaa0  usr/local/include/qsecure/qsecure.hpp
+cf092adec5f7a2bd27b5a0b3065da0fc  usr/local/include/qsecure/signature.hpp
+4ed6971a40f4e5b2e7fcbc1a2829fa22  usr/local/include/qsecure/symmetric.hpp
+fc6a59aa1605cde2cd2e1d2c4a249ca6  usr/local/lib/libqsecure.a

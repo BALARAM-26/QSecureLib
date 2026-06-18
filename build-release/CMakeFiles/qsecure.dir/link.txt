@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqsecure.a CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o CMakeFiles/qsecure.dir/src/filehandler.cpp.o CMakeFiles/qsecure.dir/src/symmetric.cpp.o CMakeFiles/qsecure.dir/src/qsecure.cpp.o CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o CMakeFiles/qsecure.dir/src/keymanager.cpp.o CMakeFiles/qsecure.dir/src/asymmetric.cpp.o CMakeFiles/qsecure.dir/src/hybrid.cpp.o CMakeFiles/qsecure.dir/src/container.cpp.o CMakeFiles/qsecure.dir/src/signature.cpp.o
+/usr/bin/ranlib libqsecure.a
