@@ -260,6 +260,19 @@ key_test/fast:
 .PHONY : key_test/fast
 
 #=============================================================================
+# Target rules for targets named container_test
+
+# Build rule for target.
+container_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 container_test
+.PHONY : container_test
+
+# fast build rule for target.
+container_test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/container_test.dir/build.make CMakeFiles/container_test.dir/build
+.PHONY : container_test/fast
+
+#=============================================================================
 # Target rules for targets named file_signature_test
 
 # Build rule for target.
@@ -273,249 +286,78 @@ file_signature_test/fast:
 .PHONY : file_signature_test/fast
 
 #=============================================================================
-# Target rules for targets named qsecure_gui
+# Target rules for targets named key_protect_test
 
 # Build rule for target.
-qsecure_gui: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qsecure_gui
-.PHONY : qsecure_gui
+key_protect_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 key_protect_test
+.PHONY : key_protect_test
 
 # fast build rule for target.
-qsecure_gui/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/build
-.PHONY : qsecure_gui/fast
+key_protect_test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_protect_test.dir/build.make CMakeFiles/key_protect_test.dir/build
+.PHONY : key_protect_test/fast
 
 #=============================================================================
-# Target rules for targets named qsecure_autogen_timestamp_deps
+# Target rules for targets named benchmark
 
 # Build rule for target.
-qsecure_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qsecure_autogen_timestamp_deps
-.PHONY : qsecure_autogen_timestamp_deps
+benchmark: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 benchmark
+.PHONY : benchmark
 
 # fast build rule for target.
-qsecure_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_autogen_timestamp_deps.dir/build.make CMakeFiles/qsecure_autogen_timestamp_deps.dir/build
-.PHONY : qsecure_autogen_timestamp_deps/fast
+benchmark/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/benchmark.dir/build.make CMakeFiles/benchmark.dir/build
+.PHONY : benchmark/fast
 
-#=============================================================================
-# Target rules for targets named qsecure_autogen
-
-# Build rule for target.
-qsecure_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qsecure_autogen
-.PHONY : qsecure_autogen
-
-# fast build rule for target.
-qsecure_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_autogen.dir/build.make CMakeFiles/qsecure_autogen.dir/build
-.PHONY : qsecure_autogen/fast
-
-#=============================================================================
-# Target rules for targets named encrypt_test_autogen_timestamp_deps
-
-# Build rule for target.
-encrypt_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 encrypt_test_autogen_timestamp_deps
-.PHONY : encrypt_test_autogen_timestamp_deps
-
-# fast build rule for target.
-encrypt_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/encrypt_test_autogen_timestamp_deps.dir/build.make CMakeFiles/encrypt_test_autogen_timestamp_deps.dir/build
-.PHONY : encrypt_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named encrypt_test_autogen
-
-# Build rule for target.
-encrypt_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 encrypt_test_autogen
-.PHONY : encrypt_test_autogen
-
-# fast build rule for target.
-encrypt_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/encrypt_test_autogen.dir/build.make CMakeFiles/encrypt_test_autogen.dir/build
-.PHONY : encrypt_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named mlkem_test_autogen_timestamp_deps
-
-# Build rule for target.
-mlkem_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mlkem_test_autogen_timestamp_deps
-.PHONY : mlkem_test_autogen_timestamp_deps
-
-# fast build rule for target.
-mlkem_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlkem_test_autogen_timestamp_deps.dir/build.make CMakeFiles/mlkem_test_autogen_timestamp_deps.dir/build
-.PHONY : mlkem_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named mlkem_test_autogen
-
-# Build rule for target.
-mlkem_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mlkem_test_autogen
-.PHONY : mlkem_test_autogen
-
-# fast build rule for target.
-mlkem_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlkem_test_autogen.dir/build.make CMakeFiles/mlkem_test_autogen.dir/build
-.PHONY : mlkem_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named hybrid_test_autogen_timestamp_deps
-
-# Build rule for target.
-hybrid_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 hybrid_test_autogen_timestamp_deps
-.PHONY : hybrid_test_autogen_timestamp_deps
-
-# fast build rule for target.
-hybrid_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test_autogen_timestamp_deps.dir/build.make CMakeFiles/hybrid_test_autogen_timestamp_deps.dir/build
-.PHONY : hybrid_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named hybrid_test_autogen
-
-# Build rule for target.
-hybrid_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 hybrid_test_autogen
-.PHONY : hybrid_test_autogen
-
-# fast build rule for target.
-hybrid_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test_autogen.dir/build.make CMakeFiles/hybrid_test_autogen.dir/build
-.PHONY : hybrid_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named signature_test_autogen_timestamp_deps
-
-# Build rule for target.
-signature_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 signature_test_autogen_timestamp_deps
-.PHONY : signature_test_autogen_timestamp_deps
-
-# fast build rule for target.
-signature_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test_autogen_timestamp_deps.dir/build.make CMakeFiles/signature_test_autogen_timestamp_deps.dir/build
-.PHONY : signature_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named signature_test_autogen
-
-# Build rule for target.
-signature_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 signature_test_autogen
-.PHONY : signature_test_autogen
-
-# fast build rule for target.
-signature_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test_autogen.dir/build.make CMakeFiles/signature_test_autogen.dir/build
-.PHONY : signature_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named key_test_autogen_timestamp_deps
-
-# Build rule for target.
-key_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 key_test_autogen_timestamp_deps
-.PHONY : key_test_autogen_timestamp_deps
-
-# fast build rule for target.
-key_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_test_autogen_timestamp_deps.dir/build.make CMakeFiles/key_test_autogen_timestamp_deps.dir/build
-.PHONY : key_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named key_test_autogen
-
-# Build rule for target.
-key_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 key_test_autogen
-.PHONY : key_test_autogen
-
-# fast build rule for target.
-key_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_test_autogen.dir/build.make CMakeFiles/key_test_autogen.dir/build
-.PHONY : key_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named file_signature_test_autogen_timestamp_deps
-
-# Build rule for target.
-file_signature_test_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 file_signature_test_autogen_timestamp_deps
-.PHONY : file_signature_test_autogen_timestamp_deps
-
-# fast build rule for target.
-file_signature_test_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/file_signature_test_autogen_timestamp_deps.dir/build.make CMakeFiles/file_signature_test_autogen_timestamp_deps.dir/build
-.PHONY : file_signature_test_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named file_signature_test_autogen
-
-# Build rule for target.
-file_signature_test_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 file_signature_test_autogen
-.PHONY : file_signature_test_autogen
-
-# fast build rule for target.
-file_signature_test_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/file_signature_test_autogen.dir/build.make CMakeFiles/file_signature_test_autogen.dir/build
-.PHONY : file_signature_test_autogen/fast
-
-#=============================================================================
-# Target rules for targets named qsecure_gui_autogen_timestamp_deps
-
-# Build rule for target.
-qsecure_gui_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qsecure_gui_autogen_timestamp_deps
-.PHONY : qsecure_gui_autogen_timestamp_deps
-
-# fast build rule for target.
-qsecure_gui_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui_autogen_timestamp_deps.dir/build.make CMakeFiles/qsecure_gui_autogen_timestamp_deps.dir/build
-.PHONY : qsecure_gui_autogen_timestamp_deps/fast
-
-#=============================================================================
-# Target rules for targets named qsecure_gui_autogen
-
-# Build rule for target.
-qsecure_gui_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qsecure_gui_autogen
-.PHONY : qsecure_gui_autogen
-
-# fast build rule for target.
-qsecure_gui_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui_autogen.dir/build.make CMakeFiles/qsecure_gui_autogen.dir/build
-.PHONY : qsecure_gui_autogen/fast
-
-encrypt_test_autogen/mocs_compilation.o: encrypt_test_autogen/mocs_compilation.cpp.o
-.PHONY : encrypt_test_autogen/mocs_compilation.o
+examples/benchmark.o: examples/benchmark.cpp.o
+.PHONY : examples/benchmark.o
 
 # target to build an object file
-encrypt_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/encrypt_test.dir/build.make CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o
-.PHONY : encrypt_test_autogen/mocs_compilation.cpp.o
+examples/benchmark.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/benchmark.dir/build.make CMakeFiles/benchmark.dir/examples/benchmark.cpp.o
+.PHONY : examples/benchmark.cpp.o
 
-encrypt_test_autogen/mocs_compilation.i: encrypt_test_autogen/mocs_compilation.cpp.i
-.PHONY : encrypt_test_autogen/mocs_compilation.i
+examples/benchmark.i: examples/benchmark.cpp.i
+.PHONY : examples/benchmark.i
 
 # target to preprocess a source file
-encrypt_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/encrypt_test.dir/build.make CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.i
-.PHONY : encrypt_test_autogen/mocs_compilation.cpp.i
+examples/benchmark.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/benchmark.dir/build.make CMakeFiles/benchmark.dir/examples/benchmark.cpp.i
+.PHONY : examples/benchmark.cpp.i
 
-encrypt_test_autogen/mocs_compilation.s: encrypt_test_autogen/mocs_compilation.cpp.s
-.PHONY : encrypt_test_autogen/mocs_compilation.s
+examples/benchmark.s: examples/benchmark.cpp.s
+.PHONY : examples/benchmark.s
 
 # target to generate assembly for a file
-encrypt_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/encrypt_test.dir/build.make CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.s
-.PHONY : encrypt_test_autogen/mocs_compilation.cpp.s
+examples/benchmark.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/benchmark.dir/build.make CMakeFiles/benchmark.dir/examples/benchmark.cpp.s
+.PHONY : examples/benchmark.cpp.s
+
+examples/container_test.o: examples/container_test.cpp.o
+.PHONY : examples/container_test.o
+
+# target to build an object file
+examples/container_test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/container_test.dir/build.make CMakeFiles/container_test.dir/examples/container_test.cpp.o
+.PHONY : examples/container_test.cpp.o
+
+examples/container_test.i: examples/container_test.cpp.i
+.PHONY : examples/container_test.i
+
+# target to preprocess a source file
+examples/container_test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/container_test.dir/build.make CMakeFiles/container_test.dir/examples/container_test.cpp.i
+.PHONY : examples/container_test.cpp.i
+
+examples/container_test.s: examples/container_test.cpp.s
+.PHONY : examples/container_test.s
+
+# target to generate assembly for a file
+examples/container_test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/container_test.dir/build.make CMakeFiles/container_test.dir/examples/container_test.cpp.s
+.PHONY : examples/container_test.cpp.s
 
 examples/encrypt_test.o: examples/encrypt_test.cpp.o
 .PHONY : examples/encrypt_test.o
@@ -589,6 +431,30 @@ examples/hybrid_test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test.dir/build.make CMakeFiles/hybrid_test.dir/examples/hybrid_test.cpp.s
 .PHONY : examples/hybrid_test.cpp.s
 
+examples/key_protect_test.o: examples/key_protect_test.cpp.o
+.PHONY : examples/key_protect_test.o
+
+# target to build an object file
+examples/key_protect_test.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_protect_test.dir/build.make CMakeFiles/key_protect_test.dir/examples/key_protect_test.cpp.o
+.PHONY : examples/key_protect_test.cpp.o
+
+examples/key_protect_test.i: examples/key_protect_test.cpp.i
+.PHONY : examples/key_protect_test.i
+
+# target to preprocess a source file
+examples/key_protect_test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_protect_test.dir/build.make CMakeFiles/key_protect_test.dir/examples/key_protect_test.cpp.i
+.PHONY : examples/key_protect_test.cpp.i
+
+examples/key_protect_test.s: examples/key_protect_test.cpp.s
+.PHONY : examples/key_protect_test.s
+
+# target to generate assembly for a file
+examples/key_protect_test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_protect_test.dir/build.make CMakeFiles/key_protect_test.dir/examples/key_protect_test.cpp.s
+.PHONY : examples/key_protect_test.cpp.s
+
 examples/key_test.o: examples/key_test.cpp.o
 .PHONY : examples/key_test.o
 
@@ -660,222 +526,6 @@ examples/signature_test.s: examples/signature_test.cpp.s
 examples/signature_test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test.dir/build.make CMakeFiles/signature_test.dir/examples/signature_test.cpp.s
 .PHONY : examples/signature_test.cpp.s
-
-file_signature_test_autogen/mocs_compilation.o: file_signature_test_autogen/mocs_compilation.cpp.o
-.PHONY : file_signature_test_autogen/mocs_compilation.o
-
-# target to build an object file
-file_signature_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/file_signature_test.dir/build.make CMakeFiles/file_signature_test.dir/file_signature_test_autogen/mocs_compilation.cpp.o
-.PHONY : file_signature_test_autogen/mocs_compilation.cpp.o
-
-file_signature_test_autogen/mocs_compilation.i: file_signature_test_autogen/mocs_compilation.cpp.i
-.PHONY : file_signature_test_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-file_signature_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/file_signature_test.dir/build.make CMakeFiles/file_signature_test.dir/file_signature_test_autogen/mocs_compilation.cpp.i
-.PHONY : file_signature_test_autogen/mocs_compilation.cpp.i
-
-file_signature_test_autogen/mocs_compilation.s: file_signature_test_autogen/mocs_compilation.cpp.s
-.PHONY : file_signature_test_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-file_signature_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/file_signature_test.dir/build.make CMakeFiles/file_signature_test.dir/file_signature_test_autogen/mocs_compilation.cpp.s
-.PHONY : file_signature_test_autogen/mocs_compilation.cpp.s
-
-gui/main.o: gui/main.cpp.o
-.PHONY : gui/main.o
-
-# target to build an object file
-gui/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/main.cpp.o
-.PHONY : gui/main.cpp.o
-
-gui/main.i: gui/main.cpp.i
-.PHONY : gui/main.i
-
-# target to preprocess a source file
-gui/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/main.cpp.i
-.PHONY : gui/main.cpp.i
-
-gui/main.s: gui/main.cpp.s
-.PHONY : gui/main.s
-
-# target to generate assembly for a file
-gui/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/main.cpp.s
-.PHONY : gui/main.cpp.s
-
-gui/mainwindow.o: gui/mainwindow.cpp.o
-.PHONY : gui/mainwindow.o
-
-# target to build an object file
-gui/mainwindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/mainwindow.cpp.o
-.PHONY : gui/mainwindow.cpp.o
-
-gui/mainwindow.i: gui/mainwindow.cpp.i
-.PHONY : gui/mainwindow.i
-
-# target to preprocess a source file
-gui/mainwindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/mainwindow.cpp.i
-.PHONY : gui/mainwindow.cpp.i
-
-gui/mainwindow.s: gui/mainwindow.cpp.s
-.PHONY : gui/mainwindow.s
-
-# target to generate assembly for a file
-gui/mainwindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/gui/mainwindow.cpp.s
-.PHONY : gui/mainwindow.cpp.s
-
-hybrid_test_autogen/mocs_compilation.o: hybrid_test_autogen/mocs_compilation.cpp.o
-.PHONY : hybrid_test_autogen/mocs_compilation.o
-
-# target to build an object file
-hybrid_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test.dir/build.make CMakeFiles/hybrid_test.dir/hybrid_test_autogen/mocs_compilation.cpp.o
-.PHONY : hybrid_test_autogen/mocs_compilation.cpp.o
-
-hybrid_test_autogen/mocs_compilation.i: hybrid_test_autogen/mocs_compilation.cpp.i
-.PHONY : hybrid_test_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-hybrid_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test.dir/build.make CMakeFiles/hybrid_test.dir/hybrid_test_autogen/mocs_compilation.cpp.i
-.PHONY : hybrid_test_autogen/mocs_compilation.cpp.i
-
-hybrid_test_autogen/mocs_compilation.s: hybrid_test_autogen/mocs_compilation.cpp.s
-.PHONY : hybrid_test_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-hybrid_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hybrid_test.dir/build.make CMakeFiles/hybrid_test.dir/hybrid_test_autogen/mocs_compilation.cpp.s
-.PHONY : hybrid_test_autogen/mocs_compilation.cpp.s
-
-key_test_autogen/mocs_compilation.o: key_test_autogen/mocs_compilation.cpp.o
-.PHONY : key_test_autogen/mocs_compilation.o
-
-# target to build an object file
-key_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_test.dir/build.make CMakeFiles/key_test.dir/key_test_autogen/mocs_compilation.cpp.o
-.PHONY : key_test_autogen/mocs_compilation.cpp.o
-
-key_test_autogen/mocs_compilation.i: key_test_autogen/mocs_compilation.cpp.i
-.PHONY : key_test_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-key_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_test.dir/build.make CMakeFiles/key_test.dir/key_test_autogen/mocs_compilation.cpp.i
-.PHONY : key_test_autogen/mocs_compilation.cpp.i
-
-key_test_autogen/mocs_compilation.s: key_test_autogen/mocs_compilation.cpp.s
-.PHONY : key_test_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-key_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/key_test.dir/build.make CMakeFiles/key_test.dir/key_test_autogen/mocs_compilation.cpp.s
-.PHONY : key_test_autogen/mocs_compilation.cpp.s
-
-mlkem_test_autogen/mocs_compilation.o: mlkem_test_autogen/mocs_compilation.cpp.o
-.PHONY : mlkem_test_autogen/mocs_compilation.o
-
-# target to build an object file
-mlkem_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlkem_test.dir/build.make CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o
-.PHONY : mlkem_test_autogen/mocs_compilation.cpp.o
-
-mlkem_test_autogen/mocs_compilation.i: mlkem_test_autogen/mocs_compilation.cpp.i
-.PHONY : mlkem_test_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-mlkem_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlkem_test.dir/build.make CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.i
-.PHONY : mlkem_test_autogen/mocs_compilation.cpp.i
-
-mlkem_test_autogen/mocs_compilation.s: mlkem_test_autogen/mocs_compilation.cpp.s
-.PHONY : mlkem_test_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-mlkem_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mlkem_test.dir/build.make CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.s
-.PHONY : mlkem_test_autogen/mocs_compilation.cpp.s
-
-qsecure_autogen/mocs_compilation.o: qsecure_autogen/mocs_compilation.cpp.o
-.PHONY : qsecure_autogen/mocs_compilation.o
-
-# target to build an object file
-qsecure_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure.dir/build.make CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o
-.PHONY : qsecure_autogen/mocs_compilation.cpp.o
-
-qsecure_autogen/mocs_compilation.i: qsecure_autogen/mocs_compilation.cpp.i
-.PHONY : qsecure_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-qsecure_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure.dir/build.make CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.i
-.PHONY : qsecure_autogen/mocs_compilation.cpp.i
-
-qsecure_autogen/mocs_compilation.s: qsecure_autogen/mocs_compilation.cpp.s
-.PHONY : qsecure_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-qsecure_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure.dir/build.make CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.s
-.PHONY : qsecure_autogen/mocs_compilation.cpp.s
-
-qsecure_gui_autogen/mocs_compilation.o: qsecure_gui_autogen/mocs_compilation.cpp.o
-.PHONY : qsecure_gui_autogen/mocs_compilation.o
-
-# target to build an object file
-qsecure_gui_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/qsecure_gui_autogen/mocs_compilation.cpp.o
-.PHONY : qsecure_gui_autogen/mocs_compilation.cpp.o
-
-qsecure_gui_autogen/mocs_compilation.i: qsecure_gui_autogen/mocs_compilation.cpp.i
-.PHONY : qsecure_gui_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-qsecure_gui_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/qsecure_gui_autogen/mocs_compilation.cpp.i
-.PHONY : qsecure_gui_autogen/mocs_compilation.cpp.i
-
-qsecure_gui_autogen/mocs_compilation.s: qsecure_gui_autogen/mocs_compilation.cpp.s
-.PHONY : qsecure_gui_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-qsecure_gui_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/qsecure_gui.dir/build.make CMakeFiles/qsecure_gui.dir/qsecure_gui_autogen/mocs_compilation.cpp.s
-.PHONY : qsecure_gui_autogen/mocs_compilation.cpp.s
-
-signature_test_autogen/mocs_compilation.o: signature_test_autogen/mocs_compilation.cpp.o
-.PHONY : signature_test_autogen/mocs_compilation.o
-
-# target to build an object file
-signature_test_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test.dir/build.make CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o
-.PHONY : signature_test_autogen/mocs_compilation.cpp.o
-
-signature_test_autogen/mocs_compilation.i: signature_test_autogen/mocs_compilation.cpp.i
-.PHONY : signature_test_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-signature_test_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test.dir/build.make CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.i
-.PHONY : signature_test_autogen/mocs_compilation.cpp.i
-
-signature_test_autogen/mocs_compilation.s: signature_test_autogen/mocs_compilation.cpp.s
-.PHONY : signature_test_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-signature_test_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/signature_test.dir/build.make CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.s
-.PHONY : signature_test_autogen/mocs_compilation.cpp.s
 
 src/aes_gcm.o: src/aes_gcm.cpp.o
 .PHONY : src/aes_gcm.o
@@ -1107,33 +757,22 @@ help:
 	@echo "... package"
 	@echo "... package_source"
 	@echo "... rebuild_cache"
-	@echo "... encrypt_test_autogen"
-	@echo "... encrypt_test_autogen_timestamp_deps"
-	@echo "... file_signature_test_autogen"
-	@echo "... file_signature_test_autogen_timestamp_deps"
-	@echo "... hybrid_test_autogen"
-	@echo "... hybrid_test_autogen_timestamp_deps"
-	@echo "... key_test_autogen"
-	@echo "... key_test_autogen_timestamp_deps"
-	@echo "... mlkem_test_autogen"
-	@echo "... mlkem_test_autogen_timestamp_deps"
-	@echo "... qsecure_autogen"
-	@echo "... qsecure_autogen_timestamp_deps"
-	@echo "... qsecure_gui_autogen"
-	@echo "... qsecure_gui_autogen_timestamp_deps"
-	@echo "... signature_test_autogen"
-	@echo "... signature_test_autogen_timestamp_deps"
+	@echo "... benchmark"
+	@echo "... container_test"
 	@echo "... encrypt_test"
 	@echo "... file_signature_test"
 	@echo "... hybrid_test"
+	@echo "... key_protect_test"
 	@echo "... key_test"
 	@echo "... mlkem_test"
 	@echo "... qsecure"
-	@echo "... qsecure_gui"
 	@echo "... signature_test"
-	@echo "... encrypt_test_autogen/mocs_compilation.o"
-	@echo "... encrypt_test_autogen/mocs_compilation.i"
-	@echo "... encrypt_test_autogen/mocs_compilation.s"
+	@echo "... examples/benchmark.o"
+	@echo "... examples/benchmark.i"
+	@echo "... examples/benchmark.s"
+	@echo "... examples/container_test.o"
+	@echo "... examples/container_test.i"
+	@echo "... examples/container_test.s"
 	@echo "... examples/encrypt_test.o"
 	@echo "... examples/encrypt_test.i"
 	@echo "... examples/encrypt_test.s"
@@ -1143,6 +782,9 @@ help:
 	@echo "... examples/hybrid_test.o"
 	@echo "... examples/hybrid_test.i"
 	@echo "... examples/hybrid_test.s"
+	@echo "... examples/key_protect_test.o"
+	@echo "... examples/key_protect_test.i"
+	@echo "... examples/key_protect_test.s"
 	@echo "... examples/key_test.o"
 	@echo "... examples/key_test.i"
 	@echo "... examples/key_test.s"
@@ -1152,33 +794,6 @@ help:
 	@echo "... examples/signature_test.o"
 	@echo "... examples/signature_test.i"
 	@echo "... examples/signature_test.s"
-	@echo "... file_signature_test_autogen/mocs_compilation.o"
-	@echo "... file_signature_test_autogen/mocs_compilation.i"
-	@echo "... file_signature_test_autogen/mocs_compilation.s"
-	@echo "... gui/main.o"
-	@echo "... gui/main.i"
-	@echo "... gui/main.s"
-	@echo "... gui/mainwindow.o"
-	@echo "... gui/mainwindow.i"
-	@echo "... gui/mainwindow.s"
-	@echo "... hybrid_test_autogen/mocs_compilation.o"
-	@echo "... hybrid_test_autogen/mocs_compilation.i"
-	@echo "... hybrid_test_autogen/mocs_compilation.s"
-	@echo "... key_test_autogen/mocs_compilation.o"
-	@echo "... key_test_autogen/mocs_compilation.i"
-	@echo "... key_test_autogen/mocs_compilation.s"
-	@echo "... mlkem_test_autogen/mocs_compilation.o"
-	@echo "... mlkem_test_autogen/mocs_compilation.i"
-	@echo "... mlkem_test_autogen/mocs_compilation.s"
-	@echo "... qsecure_autogen/mocs_compilation.o"
-	@echo "... qsecure_autogen/mocs_compilation.i"
-	@echo "... qsecure_autogen/mocs_compilation.s"
-	@echo "... qsecure_gui_autogen/mocs_compilation.o"
-	@echo "... qsecure_gui_autogen/mocs_compilation.i"
-	@echo "... qsecure_gui_autogen/mocs_compilation.s"
-	@echo "... signature_test_autogen/mocs_compilation.o"
-	@echo "... signature_test_autogen/mocs_compilation.i"
-	@echo "... signature_test_autogen/mocs_compilation.s"
 	@echo "... src/aes_gcm.o"
 	@echo "... src/aes_gcm.i"
 	@echo "... src/aes_gcm.s"

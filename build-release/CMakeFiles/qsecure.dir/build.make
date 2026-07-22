@@ -69,34 +69,13 @@ include CMakeFiles/qsecure.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/qsecure.dir/flags.make
 
-qsecure_autogen/timestamp: /usr/lib/qt6/libexec/moc
-qsecure_autogen/timestamp: /usr/lib/qt6/libexec/uic
-qsecure_autogen/timestamp: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target qsecure"
-	/usr/bin/cmake -E cmake_autogen /home/kishan/QSecureLib/build-release/CMakeFiles/qsecure_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/kishan/QSecureLib/build-release/qsecure_autogen/timestamp
-
 CMakeFiles/qsecure.dir/codegen:
 .PHONY : CMakeFiles/qsecure.dir/codegen
-
-CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o: CMakeFiles/qsecure.dir/flags.make
-CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o: qsecure_autogen/mocs_compilation.cpp
-CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o -MF CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o -c /home/kishan/QSecureLib/build-release/qsecure_autogen/mocs_compilation.cpp
-
-CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kishan/QSecureLib/build-release/qsecure_autogen/mocs_compilation.cpp > CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.i
-
-CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kishan/QSecureLib/build-release/qsecure_autogen/mocs_compilation.cpp -o CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/qsecure.dir/src/filehandler.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/filehandler.cpp.o: /home/kishan/QSecureLib/src/filehandler.cpp
 CMakeFiles/qsecure.dir/src/filehandler.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/qsecure.dir/src/filehandler.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/qsecure.dir/src/filehandler.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/filehandler.cpp.o -MF CMakeFiles/qsecure.dir/src/filehandler.cpp.o.d -o CMakeFiles/qsecure.dir/src/filehandler.cpp.o -c /home/kishan/QSecureLib/src/filehandler.cpp
 
 CMakeFiles/qsecure.dir/src/filehandler.cpp.i: cmake_force
@@ -110,7 +89,7 @@ CMakeFiles/qsecure.dir/src/filehandler.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/symmetric.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/symmetric.cpp.o: /home/kishan/QSecureLib/src/symmetric.cpp
 CMakeFiles/qsecure.dir/src/symmetric.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/qsecure.dir/src/symmetric.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/qsecure.dir/src/symmetric.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/symmetric.cpp.o -MF CMakeFiles/qsecure.dir/src/symmetric.cpp.o.d -o CMakeFiles/qsecure.dir/src/symmetric.cpp.o -c /home/kishan/QSecureLib/src/symmetric.cpp
 
 CMakeFiles/qsecure.dir/src/symmetric.cpp.i: cmake_force
@@ -124,7 +103,7 @@ CMakeFiles/qsecure.dir/src/symmetric.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/qsecure.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/qsecure.cpp.o: /home/kishan/QSecureLib/src/qsecure.cpp
 CMakeFiles/qsecure.dir/src/qsecure.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/qsecure.dir/src/qsecure.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/qsecure.dir/src/qsecure.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/qsecure.cpp.o -MF CMakeFiles/qsecure.dir/src/qsecure.cpp.o.d -o CMakeFiles/qsecure.dir/src/qsecure.cpp.o -c /home/kishan/QSecureLib/src/qsecure.cpp
 
 CMakeFiles/qsecure.dir/src/qsecure.cpp.i: cmake_force
@@ -138,7 +117,7 @@ CMakeFiles/qsecure.dir/src/qsecure.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o: /home/kishan/QSecureLib/src/aes_gcm.cpp
 CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o -MF CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o.d -o CMakeFiles/qsecure.dir/src/aes_gcm.cpp.o -c /home/kishan/QSecureLib/src/aes_gcm.cpp
 
 CMakeFiles/qsecure.dir/src/aes_gcm.cpp.i: cmake_force
@@ -152,7 +131,7 @@ CMakeFiles/qsecure.dir/src/aes_gcm.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/keymanager.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/keymanager.cpp.o: /home/kishan/QSecureLib/src/keymanager.cpp
 CMakeFiles/qsecure.dir/src/keymanager.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/qsecure.dir/src/keymanager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/qsecure.dir/src/keymanager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/keymanager.cpp.o -MF CMakeFiles/qsecure.dir/src/keymanager.cpp.o.d -o CMakeFiles/qsecure.dir/src/keymanager.cpp.o -c /home/kishan/QSecureLib/src/keymanager.cpp
 
 CMakeFiles/qsecure.dir/src/keymanager.cpp.i: cmake_force
@@ -166,7 +145,7 @@ CMakeFiles/qsecure.dir/src/keymanager.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/asymmetric.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/asymmetric.cpp.o: /home/kishan/QSecureLib/src/asymmetric.cpp
 CMakeFiles/qsecure.dir/src/asymmetric.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/qsecure.dir/src/asymmetric.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/qsecure.dir/src/asymmetric.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/asymmetric.cpp.o -MF CMakeFiles/qsecure.dir/src/asymmetric.cpp.o.d -o CMakeFiles/qsecure.dir/src/asymmetric.cpp.o -c /home/kishan/QSecureLib/src/asymmetric.cpp
 
 CMakeFiles/qsecure.dir/src/asymmetric.cpp.i: cmake_force
@@ -180,7 +159,7 @@ CMakeFiles/qsecure.dir/src/asymmetric.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/hybrid.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/hybrid.cpp.o: /home/kishan/QSecureLib/src/hybrid.cpp
 CMakeFiles/qsecure.dir/src/hybrid.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/qsecure.dir/src/hybrid.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/qsecure.dir/src/hybrid.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/hybrid.cpp.o -MF CMakeFiles/qsecure.dir/src/hybrid.cpp.o.d -o CMakeFiles/qsecure.dir/src/hybrid.cpp.o -c /home/kishan/QSecureLib/src/hybrid.cpp
 
 CMakeFiles/qsecure.dir/src/hybrid.cpp.i: cmake_force
@@ -194,7 +173,7 @@ CMakeFiles/qsecure.dir/src/hybrid.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/container.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/container.cpp.o: /home/kishan/QSecureLib/src/container.cpp
 CMakeFiles/qsecure.dir/src/container.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/qsecure.dir/src/container.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/qsecure.dir/src/container.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/container.cpp.o -MF CMakeFiles/qsecure.dir/src/container.cpp.o.d -o CMakeFiles/qsecure.dir/src/container.cpp.o -c /home/kishan/QSecureLib/src/container.cpp
 
 CMakeFiles/qsecure.dir/src/container.cpp.i: cmake_force
@@ -208,7 +187,7 @@ CMakeFiles/qsecure.dir/src/container.cpp.s: cmake_force
 CMakeFiles/qsecure.dir/src/signature.cpp.o: CMakeFiles/qsecure.dir/flags.make
 CMakeFiles/qsecure.dir/src/signature.cpp.o: /home/kishan/QSecureLib/src/signature.cpp
 CMakeFiles/qsecure.dir/src/signature.cpp.o: CMakeFiles/qsecure.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/qsecure.dir/src/signature.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/qsecure.dir/src/signature.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qsecure.dir/src/signature.cpp.o -MF CMakeFiles/qsecure.dir/src/signature.cpp.o.d -o CMakeFiles/qsecure.dir/src/signature.cpp.o -c /home/kishan/QSecureLib/src/signature.cpp
 
 CMakeFiles/qsecure.dir/src/signature.cpp.i: cmake_force
@@ -221,7 +200,6 @@ CMakeFiles/qsecure.dir/src/signature.cpp.s: cmake_force
 
 # Object files for target qsecure
 qsecure_OBJECTS = \
-"CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/qsecure.dir/src/filehandler.cpp.o" \
 "CMakeFiles/qsecure.dir/src/symmetric.cpp.o" \
 "CMakeFiles/qsecure.dir/src/qsecure.cpp.o" \
@@ -235,7 +213,6 @@ qsecure_OBJECTS = \
 # External object files for target qsecure
 qsecure_EXTERNAL_OBJECTS =
 
-libqsecure.a: CMakeFiles/qsecure.dir/qsecure_autogen/mocs_compilation.cpp.o
 libqsecure.a: CMakeFiles/qsecure.dir/src/filehandler.cpp.o
 libqsecure.a: CMakeFiles/qsecure.dir/src/symmetric.cpp.o
 libqsecure.a: CMakeFiles/qsecure.dir/src/qsecure.cpp.o
@@ -247,7 +224,7 @@ libqsecure.a: CMakeFiles/qsecure.dir/src/container.cpp.o
 libqsecure.a: CMakeFiles/qsecure.dir/src/signature.cpp.o
 libqsecure.a: CMakeFiles/qsecure.dir/build.make
 libqsecure.a: CMakeFiles/qsecure.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX static library libqsecure.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library libqsecure.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/qsecure.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/qsecure.dir/link.txt --verbose=$(VERBOSE)
 
@@ -259,7 +236,7 @@ CMakeFiles/qsecure.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/qsecure.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/qsecure.dir/clean
 
-CMakeFiles/qsecure.dir/depend: qsecure_autogen/timestamp
+CMakeFiles/qsecure.dir/depend:
 	cd /home/kishan/QSecureLib/build-release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kishan/QSecureLib /home/kishan/QSecureLib /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release/CMakeFiles/qsecure.dir/DependInfo.cmake "--color=$(COLOR)" qsecure
 .PHONY : CMakeFiles/qsecure.dir/depend
 

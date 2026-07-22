@@ -15,12 +15,20 @@ set(CMAKE_BUILD_WITH_INSTALL_RPATH FALSE)
 
 find_package(OpenSSL REQUIRED)
 
-list(APPEND CMAKE_PREFIX_PATH "/usr/local")
+if(CMAKE_CROSSCOMPILING)
+    list(APPEND CMAKE_PREFIX_PATH "$ENV{HOME}/arm-install")
+else()
+    list(APPEND CMAKE_PREFIX_PATH "/usr/local")
+endif()
+
 find_package(liboqs CONFIG REQUIRED)
 
-find_package(Qt6 REQUIRED COMPONENTS Widgets)
+option(BUILD_GUI "Build Qt GUI" ON)
 
-qt_standard_project_setup()
+if(BUILD_GUI)
+    find_package(Qt6 REQUIRED COMPONENTS Widgets)
+    qt_standard_project_setup()
+endif()
 
 # -----------------------------
 # Library
@@ -49,10 +57,10 @@ target_include_directories(
 target_link_libraries(
     qsecure
     PUBLIC
+        oqs
+        argon2
         OpenSSL::Crypto
         OpenSSL::SSL
-        argon2
-        oqs
 )
 
 # -----------------------------
@@ -162,6 +170,8 @@ target_link_libraries(
 # Qt GUI
 # -----------------------------
 
+if(BUILD_GUI)
+
 qt_add_executable(
     qsecure_gui
     gui/main.cpp
@@ -175,6 +185,13 @@ target_link_libraries(
         Qt6::Widgets
         qsecure
 )
+
+install(
+    TARGETS qsecure_gui
+    RUNTIME DESTINATION bin
+)
+
+endif()
 
 # -----------------------------
 # Install Rules
@@ -190,10 +207,7 @@ install(
     DESTINATION include/qsecure
 )
 
-install(
-    TARGETS qsecure_gui
-    RUNTIME DESTINATION bin
-)
+
 
 # -----------------------------
 # CPack / DEB Packaging

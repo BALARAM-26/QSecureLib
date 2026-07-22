@@ -8,9 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "" "key_test_autogen/timestamp" "custom" "key_test_autogen/deps"
   "/home/kishan/QSecureLib/examples/key_test.cpp" "CMakeFiles/key_test.dir/examples/key_test.cpp.o" "gcc" "CMakeFiles/key_test.dir/examples/key_test.cpp.o.d"
-  "/home/kishan/QSecureLib/build-release/key_test_autogen/mocs_compilation.cpp" "CMakeFiles/key_test.dir/key_test_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/key_test.dir/key_test_autogen/mocs_compilation.cpp.o.d"
   "" "key_test" "gcc" "CMakeFiles/key_test.dir/link.d"
   )
 

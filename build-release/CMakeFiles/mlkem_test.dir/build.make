@@ -69,34 +69,13 @@ include CMakeFiles/mlkem_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/mlkem_test.dir/flags.make
 
-mlkem_test_autogen/timestamp: /usr/lib/qt6/libexec/moc
-mlkem_test_autogen/timestamp: /usr/lib/qt6/libexec/uic
-mlkem_test_autogen/timestamp: CMakeFiles/mlkem_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target mlkem_test"
-	/usr/bin/cmake -E cmake_autogen /home/kishan/QSecureLib/build-release/CMakeFiles/mlkem_test_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/kishan/QSecureLib/build-release/mlkem_test_autogen/timestamp
-
 CMakeFiles/mlkem_test.dir/codegen:
 .PHONY : CMakeFiles/mlkem_test.dir/codegen
-
-CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o: CMakeFiles/mlkem_test.dir/flags.make
-CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o: mlkem_test_autogen/mocs_compilation.cpp
-CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o: CMakeFiles/mlkem_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o -MF CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o -c /home/kishan/QSecureLib/build-release/mlkem_test_autogen/mocs_compilation.cpp
-
-CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kishan/QSecureLib/build-release/mlkem_test_autogen/mocs_compilation.cpp > CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.i
-
-CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kishan/QSecureLib/build-release/mlkem_test_autogen/mocs_compilation.cpp -o CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o: CMakeFiles/mlkem_test.dir/flags.make
 CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o: /home/kishan/QSecureLib/examples/mlkem_test.cpp
 CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o: CMakeFiles/mlkem_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o -MF CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o.d -o CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o -c /home/kishan/QSecureLib/examples/mlkem_test.cpp
 
 CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.i: cmake_force
@@ -109,13 +88,11 @@ CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.s: cmake_force
 
 # Object files for target mlkem_test
 mlkem_test_OBJECTS = \
-"CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o"
 
 # External object files for target mlkem_test
 mlkem_test_EXTERNAL_OBJECTS =
 
-mlkem_test: CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o
 mlkem_test: CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o
 mlkem_test: CMakeFiles/mlkem_test.dir/build.make
 mlkem_test: CMakeFiles/mlkem_test.dir/compiler_depend.ts
@@ -123,7 +100,7 @@ mlkem_test: libqsecure.a
 mlkem_test: /usr/lib/x86_64-linux-gnu/libssl.so
 mlkem_test: /usr/lib/x86_64-linux-gnu/libcrypto.so
 mlkem_test: CMakeFiles/mlkem_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable mlkem_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable mlkem_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mlkem_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -134,7 +111,7 @@ CMakeFiles/mlkem_test.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/mlkem_test.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/mlkem_test.dir/clean
 
-CMakeFiles/mlkem_test.dir/depend: mlkem_test_autogen/timestamp
+CMakeFiles/mlkem_test.dir/depend:
 	cd /home/kishan/QSecureLib/build-release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kishan/QSecureLib /home/kishan/QSecureLib /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release/CMakeFiles/mlkem_test.dir/DependInfo.cmake "--color=$(COLOR)" mlkem_test
 .PHONY : CMakeFiles/mlkem_test.dir/depend
 

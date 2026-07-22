@@ -69,34 +69,13 @@ include CMakeFiles/encrypt_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/encrypt_test.dir/flags.make
 
-encrypt_test_autogen/timestamp: /usr/lib/qt6/libexec/moc
-encrypt_test_autogen/timestamp: /usr/lib/qt6/libexec/uic
-encrypt_test_autogen/timestamp: CMakeFiles/encrypt_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target encrypt_test"
-	/usr/bin/cmake -E cmake_autogen /home/kishan/QSecureLib/build-release/CMakeFiles/encrypt_test_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/kishan/QSecureLib/build-release/encrypt_test_autogen/timestamp
-
 CMakeFiles/encrypt_test.dir/codegen:
 .PHONY : CMakeFiles/encrypt_test.dir/codegen
-
-CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o: CMakeFiles/encrypt_test.dir/flags.make
-CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o: encrypt_test_autogen/mocs_compilation.cpp
-CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o: CMakeFiles/encrypt_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o -MF CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o -c /home/kishan/QSecureLib/build-release/encrypt_test_autogen/mocs_compilation.cpp
-
-CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kishan/QSecureLib/build-release/encrypt_test_autogen/mocs_compilation.cpp > CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.i
-
-CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kishan/QSecureLib/build-release/encrypt_test_autogen/mocs_compilation.cpp -o CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o: CMakeFiles/encrypt_test.dir/flags.make
 CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o: /home/kishan/QSecureLib/examples/encrypt_test.cpp
 CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o: CMakeFiles/encrypt_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o -MF CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o.d -o CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o -c /home/kishan/QSecureLib/examples/encrypt_test.cpp
 
 CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.i: cmake_force
@@ -109,13 +88,11 @@ CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.s: cmake_force
 
 # Object files for target encrypt_test
 encrypt_test_OBJECTS = \
-"CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o"
 
 # External object files for target encrypt_test
 encrypt_test_EXTERNAL_OBJECTS =
 
-encrypt_test: CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o
 encrypt_test: CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o
 encrypt_test: CMakeFiles/encrypt_test.dir/build.make
 encrypt_test: CMakeFiles/encrypt_test.dir/compiler_depend.ts
@@ -123,7 +100,7 @@ encrypt_test: libqsecure.a
 encrypt_test: /usr/lib/x86_64-linux-gnu/libssl.so
 encrypt_test: /usr/lib/x86_64-linux-gnu/libcrypto.so
 encrypt_test: CMakeFiles/encrypt_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable encrypt_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable encrypt_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/encrypt_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -134,7 +111,7 @@ CMakeFiles/encrypt_test.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/encrypt_test.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/encrypt_test.dir/clean
 
-CMakeFiles/encrypt_test.dir/depend: encrypt_test_autogen/timestamp
+CMakeFiles/encrypt_test.dir/depend:
 	cd /home/kishan/QSecureLib/build-release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kishan/QSecureLib /home/kishan/QSecureLib /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release/CMakeFiles/encrypt_test.dir/DependInfo.cmake "--color=$(COLOR)" encrypt_test
 .PHONY : CMakeFiles/encrypt_test.dir/depend
 

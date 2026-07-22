@@ -11,10 +11,10 @@ qsecure_gui: \
   /usr/lib/x86_64-linux-gnu/libGLX.so \
   /usr/lib/x86_64-linux-gnu/libOpenGL.so \
   /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.10.2 \
+  /usr/local/lib/liboqs.so \
+  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
   /usr/lib/x86_64-linux-gnu/libssl.so \
   /usr/lib/x86_64-linux-gnu/libcrypto.so \
-  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
-  /usr/local/lib/liboqs.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -103,13 +103,13 @@ libqsecure.a:
 
 /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.10.2:
 
-/usr/lib/x86_64-linux-gnu/libssl.so:
-
-/usr/lib/x86_64-linux-gnu/libcrypto.so:
+/usr/local/lib/liboqs.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so:
 
-/usr/local/lib/liboqs.so:
+/usr/lib/x86_64-linux-gnu/libssl.so:
+
+/usr/lib/x86_64-linux-gnu/libcrypto.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 

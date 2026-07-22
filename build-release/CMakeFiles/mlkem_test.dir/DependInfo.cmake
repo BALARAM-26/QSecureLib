@@ -8,9 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "" "mlkem_test_autogen/timestamp" "custom" "mlkem_test_autogen/deps"
   "/home/kishan/QSecureLib/examples/mlkem_test.cpp" "CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o" "gcc" "CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o.d"
-  "/home/kishan/QSecureLib/build-release/mlkem_test_autogen/mocs_compilation.cpp" "CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o.d"
   "" "mlkem_test" "gcc" "CMakeFiles/mlkem_test.dir/link.d"
   )
 

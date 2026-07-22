@@ -44,6 +44,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -83,6 +84,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -143,6 +145,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -182,6 +185,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -240,6 +244,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -279,6 +284,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -338,6 +344,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -412,6 +419,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -447,6 +455,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -499,6 +508,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -534,6 +544,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -586,6 +597,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -621,6 +633,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -673,6 +686,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -708,6 +722,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -760,6 +775,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -795,6 +811,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -847,6 +864,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -882,6 +900,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -934,6 +953,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -969,6 +989,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1021,6 +1042,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1056,6 +1078,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1108,6 +1131,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1141,6 +1165,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/dlltool"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/dlltool"
       - "/mnt/c/Program Files/nodejs/dlltool"
+      - "/mnt/c/Program Files/Git/cmd/dlltool"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/dlltool"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/dlltool"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/dlltool"
@@ -1176,6 +1201,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1228,6 +1254,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1263,6 +1290,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1315,6 +1343,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1348,6 +1377,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/tapi"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/tapi"
       - "/mnt/c/Program Files/nodejs/tapi"
+      - "/mnt/c/Program Files/Git/cmd/tapi"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/tapi"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/tapi"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
@@ -1383,6 +1413,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1438,6 +1469,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1471,6 +1503,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/gcc-ar-15.2"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.2"
       - "/mnt/c/Program Files/nodejs/gcc-ar-15.2"
+      - "/mnt/c/Program Files/Git/cmd/gcc-ar-15.2"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
@@ -1506,6 +1539,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1561,6 +1595,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1594,6 +1629,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/nodejs/gcc-ranlib-15.2"
+      - "/mnt/c/Program Files/Git/cmd/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
@@ -1629,6 +1665,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1694,6 +1731,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1753,6 +1791,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1830,6 +1869,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1863,6 +1903,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/gcc-ar-15.2"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ar-15.2"
       - "/mnt/c/Program Files/nodejs/gcc-ar-15.2"
+      - "/mnt/c/Program Files/Git/cmd/gcc-ar-15.2"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ar-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/gcc-ar-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
@@ -1898,6 +1939,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -1953,6 +1995,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1986,6 +2029,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/nodejs/gcc-ranlib-15.2"
+      - "/mnt/c/Program Files/Git/cmd/gcc-ranlib-15.2"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/gcc-ranlib-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/gcc-ranlib-15.2"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
@@ -2021,6 +2065,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -2038,8 +2083,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4"
-      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4"
+      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0"
+      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2048,13 +2093,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4'
+        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_86070/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_86070.dir/build.make CMakeFiles/cmTC_86070.dir/build
-        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4'
-        Building C object CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -o CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_06913/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_06913.dir/build.make CMakeFiles/cmTC_06913.dir/build
+        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0'
+        Building C object CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -o CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -2064,8 +2109,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_86070.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccs6odQp.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_06913.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccnaFSZM.s
         GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2082,14 +2127,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: edd70396dcc669433a92073f97309866
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o /tmp/ccs6odQp.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o /tmp/ccnaFSZM.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.'
-        Linking C executable cmTC_86070
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86070.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_06913
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06913.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -2102,14 +2147,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_86070' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_86070.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjMmqDO.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_86070 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06913' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06913.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc76N1QC.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06913 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjMmqDO.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_86070 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc76N1QC.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06913 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_86070' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_86070.'
-        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -o cmTC_86070
-        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06913' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06913.'
+        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -o cmTC_06913
+        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0'
         
       exitCode: 0
   -
@@ -2144,13 +2189,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4']
+        ignore line: [Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_86070/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_86070.dir/build.make CMakeFiles/cmTC_86070.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-u2mau4']
-        ignore line: [Building C object CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_06913/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_06913.dir/build.make CMakeFiles/cmTC_06913.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-ZlPBy0']
+        ignore line: [Building C object CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -2160,8 +2205,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_86070.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccs6odQp.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_06913.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccnaFSZM.s]
         ignore line: [GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2178,14 +2223,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: edd70396dcc669433a92073f97309866]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o /tmp/ccs6odQp.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o /tmp/ccnaFSZM.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_86070]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86070.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_06913]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06913.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -2198,13 +2243,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_86070' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_86070.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjMmqDO.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_86070 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06913' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06913.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc76N1QC.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06913 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccjMmqDO.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cc76N1QC.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -2222,7 +2267,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_86070] ==> ignore
+          arg [cmTC_06913] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -2237,7 +2282,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--push-state] ==> ignore
           arg [--as-needed] ==> ignore
@@ -2252,7 +2297,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjMmqDO.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_86070 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_86070.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc76N1QC.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06913 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06913.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'C': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -2292,8 +2337,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4"
-      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4"
+      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL"
+      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2303,13 +2348,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4'
+        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1333a/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_1333a.dir/build.make CMakeFiles/cmTC_1333a.dir/build
-        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4'
-        Building CXX object CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_e7b9d/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_e7b9d.dir/build.make CMakeFiles/cmTC_e7b9d.dir/build
+        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL'
+        Building CXX object CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -2319,8 +2364,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1333a.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccahKAK6.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_e7b9d.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccAjkwJB.s
         GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2341,14 +2386,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: b661a74662ad7cf413c4193391ab5290
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccahKAK6.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccAjkwJB.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_1333a
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1333a.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_e7b9d
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7b9d.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -2361,14 +2406,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1333a' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1333a.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccNVg5Mh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1333a /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7b9d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_e7b9d.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccb4yVfX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e7b9d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccNVg5Mh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1333a /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccb4yVfX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e7b9d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1333a' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1333a.'
-        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_1333a
-        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7b9d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_e7b9d.'
+        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e7b9d
+        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL'
         
       exitCode: 0
   -
@@ -2409,13 +2454,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4']
+        ignore line: [Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1333a/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_1333a.dir/build.make CMakeFiles/cmTC_1333a.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-yQjNK4']
-        ignore line: [Building CXX object CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_e7b9d/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_e7b9d.dir/build.make CMakeFiles/cmTC_e7b9d.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-NZRhYL']
+        ignore line: [Building CXX object CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -2425,8 +2470,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1333a.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccahKAK6.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_e7b9d.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccAjkwJB.s]
         ignore line: [GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2447,14 +2492,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b661a74662ad7cf413c4193391ab5290]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccahKAK6.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccAjkwJB.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_1333a]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1333a.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_e7b9d]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7b9d.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -2467,13 +2512,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1333a' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1333a.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccNVg5Mh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1333a /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e7b9d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_e7b9d.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccb4yVfX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e7b9d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccNVg5Mh.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccb4yVfX.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -2491,7 +2536,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_1333a] ==> ignore
+          arg [cmTC_e7b9d] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -2506,7 +2551,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -2517,7 +2562,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccNVg5Mh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_1333a /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_1333a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccb4yVfX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e7b9d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_e7b9d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'CXX': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -2593,6 +2638,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -2652,6 +2698,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -2721,6 +2768,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -2792,6 +2840,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -2881,6 +2930,8 @@ events:
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/include/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/include/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/include/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/include/"
@@ -2962,6 +3013,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3078,6 +3130,9 @@ events:
       - "/mnt/c/Program Files/nodejs/lib/"
       - "/mnt/c/Program Files/nodejs/lib64/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/lib/"
+      - "/mnt/c/Program Files/Git/cmd/lib64/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/lib/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/lib64/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
@@ -3190,6 +3245,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3304,6 +3360,9 @@ events:
       - "/mnt/c/Program Files/nodejs/lib/"
       - "/mnt/c/Program Files/nodejs/lib64/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/lib/"
+      - "/mnt/c/Program Files/Git/cmd/lib64/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/lib/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/lib64/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
@@ -3412,6 +3471,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3435,7 +3495,7 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
-      - "CMakeLists.txt:19 (find_package)"
+      - "CMakeLists.txt:24 (find_package)"
     name: "liboqs"
     configs:
       -
@@ -3515,6 +3575,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3545,12 +3606,12 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Dependencies.cmake:38 (_qt_internal_find_third_party_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:190 (include)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ"
-      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ"
+      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN"
+      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -3560,17 +3621,17 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ'
+        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5a8d0/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_5a8d0.dir/build.make CMakeFiles/cmTC_5a8d0.dir/build
-        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ'
-        Building C object CMakeFiles/cmTC_5a8d0.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_5a8d0.dir/src.c.o -c /home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ/src.c
-        Linking C executable cmTC_5a8d0
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a8d0.dir/link.txt --verbose=1
-        /usr/bin/cc CMakeFiles/cmTC_5a8d0.dir/src.c.o -o cmTC_5a8d0
-        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-WftnoZ'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_32b3d/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_32b3d.dir/build.make CMakeFiles/cmTC_32b3d.dir/build
+        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN'
+        Building C object CMakeFiles/cmTC_32b3d.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_32b3d.dir/src.c.o -c /home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN/src.c
+        Linking C executable cmTC_32b3d
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_32b3d.dir/link.txt --verbose=1
+        /usr/bin/cc CMakeFiles/cmTC_32b3d.dir/src.c.o -o cmTC_32b3d
+        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-YM2nvN'
         
       exitCode: 0
   -
@@ -3583,7 +3644,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6CoreTools"
     configs:
       -
@@ -3676,6 +3737,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3704,7 +3766,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6GuiTools"
     configs:
       -
@@ -3797,6 +3859,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3822,7 +3885,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6WidgetsTools"
     configs:
       -
@@ -3915,6 +3978,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -3950,12 +4014,12 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX"
-      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX"
+      source: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF"
+      binary: "/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -3965,17 +4029,17 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX'
+        Change Dir: '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_58e13/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_58e13.dir/build.make CMakeFiles/cmTC_58e13.dir/build
-        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX'
-        Building CXX object CMakeFiles/cmTC_58e13.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles/cmTC_58e13.dir/src.cxx.o -c /home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX/src.cxx
-        Linking CXX executable cmTC_58e13
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_58e13.dir/link.txt --verbose=1
-        /usr/bin/c++ CMakeFiles/cmTC_58e13.dir/src.cxx.o -o cmTC_58e13
-        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-RKoMFX'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2af21/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_2af21.dir/build.make CMakeFiles/cmTC_2af21.dir/build
+        gmake[1]: Entering directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF'
+        Building CXX object CMakeFiles/cmTC_2af21.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles/cmTC_2af21.dir/src.cxx.o -c /home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF/src.cxx
+        Linking CXX executable cmTC_2af21
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2af21.dir/link.txt --verbose=1
+        /usr/bin/c++ CMakeFiles/cmTC_2af21.dir/src.cxx.o -o cmTC_2af21
+        gmake[1]: Leaving directory '/home/kishan/QSecureLib/build/CMakeFiles/CMakeScratch/TryCompile-GaHSRF'
         
       exitCode: 0
   -
@@ -3987,7 +4051,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6Core"
     configs:
       -
@@ -4088,6 +4152,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -4122,7 +4187,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_INCLUDE_DIR"
     description: "Path to a file."
@@ -4164,6 +4229,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -4218,6 +4284,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GL/gl.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GL/gl.h"
       - "/mnt/c/Program Files/nodejs/GL/gl.h"
+      - "/mnt/c/Program Files/Git/cmd/GL/gl.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GL/gl.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GL/gl.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GL/gl.h"
@@ -4256,6 +4323,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -4292,7 +4360,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_GLX_INCLUDE_DIR"
     description: "Path to a file."
@@ -4334,6 +4402,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -4385,6 +4454,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GL/glx.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GL/glx.h"
       - "/mnt/c/Program Files/nodejs/GL/glx.h"
+      - "/mnt/c/Program Files/Git/cmd/GL/glx.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GL/glx.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GL/glx.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GL/glx.h"
@@ -4423,6 +4493,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -4459,7 +4530,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_EGL_INCLUDE_DIR"
     description: "Path to a file."
@@ -4501,6 +4572,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -4552,6 +4624,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/EGL/egl.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/EGL/egl.h"
       - "/mnt/c/Program Files/nodejs/EGL/egl.h"
+      - "/mnt/c/Program Files/Git/cmd/EGL/egl.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/EGL/egl.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/EGL/egl.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/EGL/egl.h"
@@ -4604,6 +4677,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -4640,7 +4714,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_GLES2_INCLUDE_DIR"
     description: "Path to a file."
@@ -4682,6 +4756,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -4733,6 +4808,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GLES2/gl2.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GLES2/gl2.h"
       - "/mnt/c/Program Files/nodejs/GLES2/gl2.h"
+      - "/mnt/c/Program Files/Git/cmd/GLES2/gl2.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GLES2/gl2.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GLES2/gl2.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GLES2/gl2.h"
@@ -4785,6 +4861,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -4821,7 +4898,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_GLES3_INCLUDE_DIR"
     description: "Path to a file."
@@ -4863,6 +4940,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -4914,6 +4992,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GLES3/gl3.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GLES3/gl3.h"
       - "/mnt/c/Program Files/nodejs/GLES3/gl3.h"
+      - "/mnt/c/Program Files/Git/cmd/GLES3/gl3.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GLES3/gl3.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GLES3/gl3.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GLES3/gl3.h"
@@ -4966,6 +5045,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -5002,7 +5082,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_xmesa_INCLUDE_DIR"
     description: "Path to a file."
@@ -5044,6 +5124,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -5098,6 +5179,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GL/xmesa.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GL/xmesa.h"
       - "/mnt/c/Program Files/nodejs/GL/xmesa.h"
+      - "/mnt/c/Program Files/Git/cmd/GL/xmesa.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GL/xmesa.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GL/xmesa.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GL/xmesa.h"
@@ -5153,6 +5235,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -5189,7 +5272,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "OPENGL_GLU_INCLUDE_DIR"
     description: "Path to a file."
@@ -5231,6 +5314,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -5282,6 +5366,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/GL/glu.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/GL/glu.h"
       - "/mnt/c/Program Files/nodejs/GL/glu.h"
+      - "/mnt/c/Program Files/Git/cmd/GL/glu.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/GL/glu.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/GL/glu.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/GL/glu.h"
@@ -5334,6 +5419,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -5370,7 +5456,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_opengl_LIBRARY"
     description: "Path to a library."
@@ -5412,6 +5498,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -5463,6 +5550,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -5500,6 +5588,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -5536,7 +5625,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_glx_LIBRARY"
     description: "Path to a library."
@@ -5605,6 +5694,8 @@ events:
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/libglvnd/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/libglvnd/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/libglvnd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/libglvnd/"
@@ -5706,6 +5797,8 @@ events:
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/libglvnd/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/libglvnd/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/libglvnd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/libglvnd/"
@@ -5752,6 +5845,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -5788,7 +5882,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_egl_LIBRARY"
     description: "Path to a library."
@@ -5857,6 +5951,8 @@ events:
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/libglvnd/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/libglvnd/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/libglvnd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/libglvnd/"
@@ -5958,6 +6054,8 @@ events:
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/libglvnd/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/libglvnd/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/libglvnd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/libglvnd/"
@@ -6033,6 +6131,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -6069,7 +6168,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_gles2_LIBRARY"
     description: "Path to a library."
@@ -6111,6 +6210,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6162,6 +6262,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6214,6 +6315,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -6250,7 +6352,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_gles3_LIBRARY"
     description: "Path to a library."
@@ -6293,6 +6395,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6344,6 +6447,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6394,6 +6498,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6446,6 +6551,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -6482,7 +6588,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "OPENGL_glu_LIBRARY"
     description: "Path to a library."
@@ -6525,6 +6631,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6579,6 +6686,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6632,6 +6740,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6687,6 +6796,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -6721,7 +6831,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "path"
     variable: "Vulkan_INCLUDE_DIR"
     description: "Path to a file."
@@ -6764,6 +6874,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6816,6 +6927,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/vulkan/vulkan.h"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/vulkan/vulkan.h"
       - "/mnt/c/Program Files/nodejs/vulkan/vulkan.h"
+      - "/mnt/c/Program Files/Git/cmd/vulkan/vulkan.h"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/vulkan/vulkan.h"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/vulkan/vulkan.h"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/vulkan/vulkan.h"
@@ -6854,6 +6966,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -6888,7 +7001,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "library"
     variable: "Vulkan_LIBRARY"
     description: "Path to a library."
@@ -6931,6 +7044,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -6983,6 +7097,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -7020,6 +7135,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7054,7 +7170,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "program"
     variable: "Vulkan_GLSLC_EXECUTABLE"
     description: "Path to a program."
@@ -7096,6 +7212,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -7146,6 +7263,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/glslc"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/glslc"
       - "/mnt/c/Program Files/nodejs/glslc"
+      - "/mnt/c/Program Files/Git/cmd/glslc"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/glslc"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/glslc"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/glslc"
@@ -7197,6 +7315,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7229,7 +7348,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     mode: "program"
     variable: "Vulkan_GLSLANG_VALIDATOR_EXECUTABLE"
     description: "Path to a program."
@@ -7271,6 +7390,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Program Files/Git/cmd/"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -7321,6 +7441,7 @@ events:
       - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin/glslangValidator"
       - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/glslangValidator"
       - "/mnt/c/Program Files/nodejs/glslangValidator"
+      - "/mnt/c/Program Files/Git/cmd/glslangValidator"
       - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/glslangValidator"
       - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps/glslangValidator"
       - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin/glslangValidator"
@@ -7372,6 +7493,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7407,7 +7529,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6DBusTools"
     configs:
       -
@@ -7500,6 +7622,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7532,7 +7655,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6DBus"
     configs:
       -
@@ -7633,6 +7756,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7660,7 +7784,7 @@ events:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:50 (include)"
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6Gui"
     configs:
       -
@@ -7761,6 +7885,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7783,7 +7908,7 @@ events:
     kind: "find_package-v1"
     backtrace:
       - "/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake:251 (find_package)"
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6Widgets"
     configs:
       -
@@ -7881,6 +8006,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"
@@ -7902,7 +8028,7 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
-      - "CMakeLists.txt:21 (find_package)"
+      - "CMakeLists.txt:29 (find_package)"
     name: "Qt6"
     components:
       -
@@ -8467,6 +8593,7 @@ events:
         - "/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin"
         - "/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR"
         - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/Git/cmd"
         - "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/"
         - "/mnt/c/Users/kisha/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/kisha/AppData/Local/Programs/Microsoft VS Code/bin"

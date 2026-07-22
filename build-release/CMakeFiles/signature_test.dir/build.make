@@ -69,34 +69,13 @@ include CMakeFiles/signature_test.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/signature_test.dir/flags.make
 
-signature_test_autogen/timestamp: /usr/lib/qt6/libexec/moc
-signature_test_autogen/timestamp: /usr/lib/qt6/libexec/uic
-signature_test_autogen/timestamp: CMakeFiles/signature_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target signature_test"
-	/usr/bin/cmake -E cmake_autogen /home/kishan/QSecureLib/build-release/CMakeFiles/signature_test_autogen.dir/AutogenInfo.json Release
-	/usr/bin/cmake -E touch /home/kishan/QSecureLib/build-release/signature_test_autogen/timestamp
-
 CMakeFiles/signature_test.dir/codegen:
 .PHONY : CMakeFiles/signature_test.dir/codegen
-
-CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o: CMakeFiles/signature_test.dir/flags.make
-CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o: signature_test_autogen/mocs_compilation.cpp
-CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o: CMakeFiles/signature_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o -MF CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o -c /home/kishan/QSecureLib/build-release/signature_test_autogen/mocs_compilation.cpp
-
-CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kishan/QSecureLib/build-release/signature_test_autogen/mocs_compilation.cpp > CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.i
-
-CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kishan/QSecureLib/build-release/signature_test_autogen/mocs_compilation.cpp -o CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/signature_test.dir/examples/signature_test.cpp.o: CMakeFiles/signature_test.dir/flags.make
 CMakeFiles/signature_test.dir/examples/signature_test.cpp.o: /home/kishan/QSecureLib/examples/signature_test.cpp
 CMakeFiles/signature_test.dir/examples/signature_test.cpp.o: CMakeFiles/signature_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/signature_test.dir/examples/signature_test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/signature_test.dir/examples/signature_test.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/signature_test.dir/examples/signature_test.cpp.o -MF CMakeFiles/signature_test.dir/examples/signature_test.cpp.o.d -o CMakeFiles/signature_test.dir/examples/signature_test.cpp.o -c /home/kishan/QSecureLib/examples/signature_test.cpp
 
 CMakeFiles/signature_test.dir/examples/signature_test.cpp.i: cmake_force
@@ -109,13 +88,11 @@ CMakeFiles/signature_test.dir/examples/signature_test.cpp.s: cmake_force
 
 # Object files for target signature_test
 signature_test_OBJECTS = \
-"CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/signature_test.dir/examples/signature_test.cpp.o"
 
 # External object files for target signature_test
 signature_test_EXTERNAL_OBJECTS =
 
-signature_test: CMakeFiles/signature_test.dir/signature_test_autogen/mocs_compilation.cpp.o
 signature_test: CMakeFiles/signature_test.dir/examples/signature_test.cpp.o
 signature_test: CMakeFiles/signature_test.dir/build.make
 signature_test: CMakeFiles/signature_test.dir/compiler_depend.ts
@@ -123,7 +100,7 @@ signature_test: libqsecure.a
 signature_test: /usr/lib/x86_64-linux-gnu/libssl.so
 signature_test: /usr/lib/x86_64-linux-gnu/libcrypto.so
 signature_test: CMakeFiles/signature_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable signature_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/kishan/QSecureLib/build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable signature_test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/signature_test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -134,7 +111,7 @@ CMakeFiles/signature_test.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles/signature_test.dir/cmake_clean.cmake
 .PHONY : CMakeFiles/signature_test.dir/clean
 
-CMakeFiles/signature_test.dir/depend: signature_test_autogen/timestamp
+CMakeFiles/signature_test.dir/depend:
 	cd /home/kishan/QSecureLib/build-release && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kishan/QSecureLib /home/kishan/QSecureLib /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release /home/kishan/QSecureLib/build-release/CMakeFiles/signature_test.dir/DependInfo.cmake "--color=$(COLOR)" signature_test
 .PHONY : CMakeFiles/signature_test.dir/depend
 

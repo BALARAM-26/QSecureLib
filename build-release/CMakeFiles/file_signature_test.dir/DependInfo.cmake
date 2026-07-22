@@ -8,9 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "" "file_signature_test_autogen/timestamp" "custom" "file_signature_test_autogen/deps"
   "/home/kishan/QSecureLib/examples/file_signature_test.cpp" "CMakeFiles/file_signature_test.dir/examples/file_signature_test.cpp.o" "gcc" "CMakeFiles/file_signature_test.dir/examples/file_signature_test.cpp.o.d"
-  "/home/kishan/QSecureLib/build-release/file_signature_test_autogen/mocs_compilation.cpp" "CMakeFiles/file_signature_test.dir/file_signature_test_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/file_signature_test.dir/file_signature_test_autogen/mocs_compilation.cpp.o.d"
   "" "file_signature_test" "gcc" "CMakeFiles/file_signature_test.dir/link.d"
   )
 

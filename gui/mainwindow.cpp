@@ -361,6 +361,7 @@ if(!okPassword)
         return;
     }
 
+
 // Generate the original output filename by removing ".qsec"
 std::string outputFile = selectedFile.toStdString();
 
@@ -378,7 +379,9 @@ if (outputFile.size() < 5 ||
 // Remove the ".qsec" extension
 outputFile.erase(outputFile.size() - 5);
 
-bool ok =
+
+    bool ok =
+
     HybridCrypto::decryptFile(
         selectedFile.toStdString(),
         outputFile,

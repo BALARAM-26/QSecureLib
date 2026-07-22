@@ -1,9 +1,46 @@
+# Build directories
 build/
 build-release/
-*.sig
-*.qsec
-*.dec
-*.enc
-CMakeCache.txt
+build-arm64/
+
+# CMake generated files
 CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
 Makefile
+CPackConfig.cmake
+CPackSourceConfig.cmake
+_CPack_Packages/
+
+# Qt generated files
+*_autogen/
+
+# Generated binaries
+*.a
+*.o
+*.so
+benchmark
+encrypt_test
+mlkem_test
+hybrid_test
+signature_test
+key_test
+container_test
+file_signature_test
+key_protect_test
+qsecure_gui
+
+# Generated encrypted files
+*.qsec
+*.enc
+*.sig
+
+# Generated keys
+keys/
+*.priv
+*.priv.enc
+*.pub
+secret.key
+
+# liboqs source
+liboqs/

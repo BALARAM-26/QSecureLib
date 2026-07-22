@@ -5,10 +5,10 @@ container_test: \
   CMakeFiles/container_test.dir/container_test_autogen/mocs_compilation.cpp.o \
   CMakeFiles/container_test.dir/examples/container_test.cpp.o \
   libqsecure.a \
+  /usr/local/lib/liboqs.so \
+  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
   /usr/lib/x86_64-linux-gnu/libssl.so \
   /usr/lib/x86_64-linux-gnu/libcrypto.so \
-  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
-  /usr/local/lib/liboqs.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -50,13 +50,13 @@ CMakeFiles/container_test.dir/examples/container_test.cpp.o:
 
 libqsecure.a:
 
-/usr/lib/x86_64-linux-gnu/libssl.so:
-
-/usr/lib/x86_64-linux-gnu/libcrypto.so:
+/usr/local/lib/liboqs.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so:
 
-/usr/local/lib/liboqs.so:
+/usr/lib/x86_64-linux-gnu/libssl.so:
+
+/usr/lib/x86_64-linux-gnu/libcrypto.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 

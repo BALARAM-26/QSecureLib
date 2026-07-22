@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/kishan/QSecureLib/build-release/file_signature_test_autogen/include -I/home/kishan/QSecureLib/include
+CXX_INCLUDES = -I/home/kishan/QSecureLib/include
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17
 

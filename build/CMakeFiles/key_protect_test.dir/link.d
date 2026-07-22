@@ -5,10 +5,10 @@ key_protect_test: \
   CMakeFiles/key_protect_test.dir/key_protect_test_autogen/mocs_compilation.cpp.o \
   CMakeFiles/key_protect_test.dir/examples/key_protect_test.cpp.o \
   libqsecure.a \
+  /usr/local/lib/liboqs.so \
+  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
   /usr/lib/x86_64-linux-gnu/libssl.so \
   /usr/lib/x86_64-linux-gnu/libcrypto.so \
-  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so \
-  /usr/local/lib/liboqs.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -52,13 +52,13 @@ CMakeFiles/key_protect_test.dir/examples/key_protect_test.cpp.o:
 
 libqsecure.a:
 
-/usr/lib/x86_64-linux-gnu/libssl.so:
-
-/usr/lib/x86_64-linux-gnu/libcrypto.so:
+/usr/local/lib/liboqs.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libargon2.so:
 
-/usr/local/lib/liboqs.so:
+/usr/lib/x86_64-linux-gnu/libssl.so:
+
+/usr/lib/x86_64-linux-gnu/libcrypto.so:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 
