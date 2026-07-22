@@ -19,9 +19,10 @@
 #include <string>
 #include <QInputDialog>   
 #include <QLineEdit>
+#include <filesystem>
 
 static const std::string KEY_DIR =
-    "/home/kishan/QSecureLib/build/";
+    "./keys/";
 
 static const std::string KEM_PUBLIC_KEY =
     KEY_DIR + "alice.pub";
@@ -159,6 +160,7 @@ void MainWindow::onBrowse()
 
 void MainWindow::onGenerateKeys()
 {
+    std::filesystem::create_directories(KEY_DIR);
     progressBar->setValue(0);
 
     statusLabel->setText(
