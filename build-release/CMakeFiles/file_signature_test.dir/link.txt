@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/file_signature_test.dir/link.d CMakeFiles/file_signature_test.dir/examples/file_signature_test.cpp.o -o file_signature_test  libqsecure.a -loqs -largon2 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so

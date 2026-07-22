@@ -3,31 +3,35 @@ build/
 build-release/
 build-arm64/
 
-# CMake generated files
+# CMake
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+compile_commands.json
+CTestTestfile.cmake
 CPackConfig.cmake
 CPackSourceConfig.cmake
 _CPack_Packages/
 
-# Qt generated files
+# Qt
 *_autogen/
+*.qrc.depends
 
-# Generated binaries
-*.a
+# Compiled binaries
 *.o
+*.a
 *.so
-benchmark
+*.exe
+
+# Test executables
 encrypt_test
 mlkem_test
 hybrid_test
 signature_test
 key_test
 container_test
-file_signature_test
-key_protect_test
+benchmark
 qsecure_gui
 
 # Generated encrypted files
@@ -36,11 +40,16 @@ qsecure_gui
 *.sig
 
 # Generated keys
-keys/
+*.pub
 *.priv
 *.priv.enc
-*.pub
-secret.key
 
-# liboqs source
+# liboqs (don't commit the whole library)
 liboqs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

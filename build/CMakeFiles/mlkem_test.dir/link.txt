@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/mlkem_test.dir/link.d CMakeFiles/mlkem_test.dir/mlkem_test_autogen/mocs_compilation.cpp.o CMakeFiles/mlkem_test.dir/examples/mlkem_test.cpp.o -o mlkem_test  libqsecure.a -loqs -largon2 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so

@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/encrypt_test.dir/link.d CMakeFiles/encrypt_test.dir/encrypt_test_autogen/mocs_compilation.cpp.o CMakeFiles/encrypt_test.dir/examples/encrypt_test.cpp.o -o encrypt_test  libqsecure.a -loqs -largon2 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so
