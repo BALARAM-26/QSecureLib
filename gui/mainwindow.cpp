@@ -361,16 +361,29 @@ if(!okPassword)
         return;
     }
 
-    std::string outputFile =
-        selectedFile.toStdString()
-        + ".dec";
+// Generate the original output filename by removing ".qsec"
+std::string outputFile = selectedFile.toStdString();
 
-    bool ok =
-        HybridCrypto::decryptFile(
-            selectedFile.toStdString(),
-            outputFile,
-            privateKey
-        );
+if (outputFile.size() < 5 ||
+    outputFile.substr(outputFile.size() - 5) != ".qsec")
+{
+    QMessageBox::warning(
+        this,
+        "Error",
+        "Please select a valid .qsec file."
+    );
+    return;
+}
+
+// Remove the ".qsec" extension
+outputFile.erase(outputFile.size() - 5);
+
+bool ok =
+    HybridCrypto::decryptFile(
+        selectedFile.toStdString(),
+        outputFile,
+        privateKey
+    );
 
     if(ok)
     {
